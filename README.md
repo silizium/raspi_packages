@@ -2,7 +2,7 @@
 Compiled *.deb packages for the Raspberry Pi
 ---
 
-## 22.05.2017 GAUL package for evolutionary algorithm
+### 22.05.2017 GAUL package for evolutionary algorithm
 
 http://gaul.sourceforge.net/
 
