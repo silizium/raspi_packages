@@ -11,4 +11,6 @@ THe GAUL project is good for to solve complex input situations, like "where do I
 
 It does jiggle the input variables around until it finds a better way to put them. So it can heuristically even find a solution to NP complete problems like the Knapsack problem (see examples) or how to organize a time plan for the job or school in a perfect way.
 
-It is the ultimative weapon of mass data destruction. And has to be in the toolkit of every mad scientist, who builds his world wide empire of evil on the invincible processing power of the allmighty Raspberry Pi.
+It is the ultimative weapon of mass data destruction. And has to be in the toolkit of every mad scientist, who builds his world wide empire of evil on the invincible processing power of the allmighty Raspberry Pi. Compiled for the ARMv6 means Raspberry Pi 1a, b, zero, will work on the Raspberry Pi 2 and 3, too. Can't check, you have to see yourself. I did turn off Slang support during compile, for there were problems that I didn't see why. No multicore support or anything fancy. 
+
+Very fast algorithms. 
